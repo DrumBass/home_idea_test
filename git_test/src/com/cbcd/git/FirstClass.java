@@ -9,8 +9,10 @@ public class FirstClass {
         System.out.println("hello git");
         System.out.println("hello git");
         System.out.println("hello git");
+        //第二人的注释
     }
     public void test(){
         int i =1;
+        System.out.println("第二人");
     }
 }
